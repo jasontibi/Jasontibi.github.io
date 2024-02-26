@@ -1,2 +1,2 @@
 <p><img src="banner.png" /></p>
-Blog for Unanswered Questions while Studying Cybersecurity
+<small>A Cybersecurity Student's Guide to Unanswered Questions: From studying Cybersecurity to developing projects on my own, I have many unanswered questions that develop as I try to understand different topics on the subject, including, but not limited to: IT, Homeservers, PII,  Ethical Hacking, Cybersecurity Certification Training, Exploits, Vulnerabilities, Programming, Networking, Scripting, Linux, pfSense . .  I'm using this platform to   write questions while studying Cybersecurity, and will attempt to answer them through my own research online, and from other materials. I will also post projects I am working on as well.</small>
