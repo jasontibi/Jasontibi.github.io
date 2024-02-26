@@ -1,4 +1,4 @@
-title: "I'm Not The Problem, Your Security Is"
+rtitle: "I'm Not The Problem, Your Security Is"
 author: "Jason Tibi"
 #other possible title: A Cybersecurity Student's Guide to Unanswered Questions
 description: "I'm using this platform to dedicate time to write about the questions I come across while studying Cybersecurity, exploits, and vulnerbilities-  and attempt to answer them through my own research online, and other books. " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
@@ -11,11 +11,10 @@ github_username: "jasontibi"
 linkedin_username: "jasontibi"
 #facebook_username: username
 #flickr_username: username
-instagram_username: cdcdplayer
+instagram_username: searchresultspress
 #pinterest_username: username
-#youtube_username: username
+youtube_username: @jasontibi
 #googleplus_username: +username
-mastadon_username: jasontibi
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
