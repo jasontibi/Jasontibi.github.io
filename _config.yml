@@ -1,19 +1,21 @@
 title: "I'm Not The Problem, Your Security Is"
 author: "Jason Tibi"
-description: "A Cybersecurity Student's Guide to Unanswered Questions: From studying Cybersecurity to developing projects on my own, I have many unanswered questions that develop while I'm trying to understand different topics on the vast subject. A few but not limited to, topics you'll find: <i> IT, Homeservers, Protecting PII, Ethical Hacking, Cybersecurity Certificaion Training, Exploits, Vulnerbilities, Programming, Networking, Scripting, Madonna, Linux, pfSense, etc..</i> I'm using this platform to dedicate time to write about the questions I come across while studying Cybersecurity and attempt to answer them through my <i>own</i> research online, and other materials. I'm fascinated by all things Cybersecurity, IT, and Computers but I'll also post projects and creative things I'm working on as well. " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+#other possible title: A Cybersecurity Student's Guide to Unanswered Questions
+description: "I'm using this platform to dedicate time to write about the questions I come across while studying Cybersecurity, exploits, and vulnerbilities-  and attempt to answer them through my own research online, and other books. " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "jasontibi@gmail.com"
+# twitter_username: "twitteruser"
+github_username: "jasontibi"
+linkedin_username: "jasontibi"
 #facebook_username: username
 #flickr_username: username
-#instagram_username: username
+instagram_username: cdcdplayer
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+mastadon_username: jasontibi
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
