@@ -35,6 +35,7 @@ I read through, and again took thorough notes, on HackTheBox Academy's Intro to 
 ### Projects
 
 The purpose of these projects is because I want to know more on a certain subject I am interested in so engaging in project style learning helps me to develop a better understanding. I have multiple projects written down, **this blog** being one of them. I won't go too into detail as I will do so in later posts, but here are a few:
+
 -**Programming** project using C to create a simple networking application. Most likely simple instant messaging program using terminal.
   -Using ChatGPT to help structure building blocks and pseudocode. As a gateway to learning network programming then doing my own research for further understanding topics. Again most likely taking thorough notes.
   
