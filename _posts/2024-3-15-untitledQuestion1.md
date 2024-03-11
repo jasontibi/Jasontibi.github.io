@@ -1,6 +1,7 @@
 # Q: What types of malicious behavior can you achieve by knowing a device's MAC Address?
 
-**Disclaimer: I'm a student who is new to IT and learning about network security as one of my topics of study. This information is to help you protect yourself and others from malicious activity, it is **not** to be used for your own malicious intent. *This content is the result of answering my own question through my own research.***
+>[!CAUTION]
+>Disclaimer: I'm a student who is new to IT and learning about network security as one of my topics of study. This information is to help you protect yourself and others from malicious activity, it is **not** to be used for your own malicious intent. *This content is the result of answering my own question through my own research.*
 
 Last month I took Hack The Box Academy's course: *Intro To Networking*. While reading the portion on IP and MAC Addresses, (both of these addresses are used to identify a device on a network) I started to ask myself, what can *I* do once I have someone/another device's MAC Address? If a MAC Address identifies someone on a network, what happens if I can change my MAC Adddress to identify as somebody else?
 
