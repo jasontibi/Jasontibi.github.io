@@ -22,14 +22,15 @@ MAC stands for Media Access Control. It's a 12 digit hexadecimal number that is 
 *Again, these are just basics so if you don't understand something, I recommend looking it up because it'll provide a better scope for your undestanding in the sections below. Furthermore, there is just tons of interesting cogs that play into this whole system of IT. So google what an octet is, and its role in Internet Protocol and come back.*
 
 ### What can I do if I have somebody elses MAC Address?
-//https://www.reddit.com/r/AskReddit/comments/792myk/what_can_a_hacker_do_with_our_mac_address/
-// the above link is all well and done but what about when I start messing with the router, and the broadcast message it //sends out to help it identify who is on the network?
-//explain context of a MAC Address on a network
-//Impersonate 
-//Kali OS Parrot ETC:
+
+<!-- simple expln: https://www.reddit.com/r/AskReddit/comments/792myk/what_can_a_hacker_do_with_our_mac_address/ -->
+<!-- detailed expln: https://dongknows.com/mac-address-explained/ -->
+
+<!-- notes: the above link is all well and done but what about when I start messing with the router, and the broadcast message it sends? -->
 
 
-// section: finding a mac address https://slts.osu.edu/articles/whats-a-mac-address-and-how-do-i-find-it/
+
+ <!-- section: finding a mac address https://slts.osu.edu/articles/whats-a-mac-address-and-how-do-i-find-it/ -->
 
 
 
